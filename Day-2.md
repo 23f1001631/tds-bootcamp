@@ -1,0 +1,31 @@
+```
+---
+---
+
+--- Before Day-2 ---
+I already knew some basic terminal navigation and command usage.
+---
+
+## Day-2 Checklist
+
+- [x] I understand what `PATH` is and why commands like `python` work without full paths
+- [x] I can navigate the filesystem without clicking — using `cd`, `ls`, and `pwd` only
+- [x] I can read, search, and inspect files using `cat`, `head`, `tail`, `grep`, and `wc`
+- [x] I can edit a file using `nano` (open, edit, save, exit)
+- [x] I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
+- [x] I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
+- [x] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
+
+--- After Day-2 ---
+I learned more about terminal navigation, file inspection, pipes, redirection, and environment variables. I also practiced using nano editor and shell commands efficiently.
+---
+
+--- Feedback (Suggestions for the TDS Team) ---
+The hands-on terminal practice was useful and easy to follow. Additional real-life examples would help beginners understand concepts more deeply.
+---
+
+---
+---
+
+You can write your personal notes here; they will not be parsed and are for your own reference.
+```
